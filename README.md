@@ -1,6 +1,6 @@
-# Conferencias Recibos
+# Demonstração — Conferência de recibos de DCTFWeb, ECD e EFD
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de conferência de recibos de DCTFWeb, ECD e EFD — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Conferir se cada empresa tem o recibo de entrega da DCTFWeb, ECD e EFD exigia abrir pastas uma a uma.
